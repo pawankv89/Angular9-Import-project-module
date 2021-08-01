@@ -106,6 +106,16 @@ export class DownloadService {
 
 ng serve
 
+## Git Commands
+
+Public Github Source % git clone https://github.com/pawankv89/Angular9-Import-project-module.git
+Angular9-Import-project-module % git status
+Angular9-Import-project-module % git add *
+Angular9-Import-project-module % git commit -m "Initial commit"
+Angular9-Import-project-module % git status
+Angular9-Import-project-module % git push -u origin main
+Angular9-Import-project-module % 
+
 ## License
 
 This code is distributed under the terms and conditions of the [MIT license](LICENSE).
