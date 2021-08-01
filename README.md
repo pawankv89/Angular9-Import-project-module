@@ -109,6 +109,12 @@ ng serve
 ## Git Commands
 
 ```xml
+
+Update Password
+Angular9-Import-project-module % git config --global user.name "Example_Name"
+Angular9-Import-project-module % git config --global user.email "Example_EMAIL"
+Angular9-Import-project-module % git config --global user.password "Example_PASSWORD"
+
 Public Github Source % git clone https://github.com/pawankv89/Angular9-Import-project-module.git
 Angular9-Import-project-module % git status
 Angular9-Import-project-module % git add *
